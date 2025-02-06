@@ -10,3 +10,6 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: Data science could be applied to transportation, analyzing the number of vehicles that pass through certain high traffic interesections depending on the time of day, and using this information to time traffic signals and 
 other control devices to create seemless traffic flow. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from branches into a merged commit, and keeps the branch history. Rebasing combines branches in sequence, putting all commits on one branch and then all commits on the other.
